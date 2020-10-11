@@ -11,13 +11,16 @@ body {
     margin-left: 14px;
     margin-right: 14px;
   }
+
   .glitchButton .glitchButtonElement {
-    margin: 0 !important;
-    padding-right: 14px !important;
+    margin: 0;
+    padding-right: 14px;
   }
+
   .glitchButton img {
     width: 20px;
   }
+
   h1 {
     font-size: 1.8em;
   }
@@ -119,5 +122,5 @@ button {
   margin: 0 2px;
   background-color: #f8f8f8;
   border-radius: 3px;
-  border: 1px solid #eeeeee;
+  border: 1px solid #eee;
 }

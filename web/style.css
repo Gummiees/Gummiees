@@ -107,6 +107,7 @@ button {
   margin-top: 60px;
   font-size: 14px;
 }
+
 .footer::after {
   content: '';
   position: absolute;

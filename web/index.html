@@ -8,32 +8,55 @@
     <link rel="stylesheet" href="style.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
   </head>  
-    <body>
-      <header><h1>hello tensorflow <div class="glitchButton"></div></h1></header>
-      
-      <p>
-        <b>Machine Learning (ML) </b> is the dope new thing that everyone's talking about, because it's really good 
-        at learning from data so that it can predict similar things in the future. Doing ML by hand is pretty annoying
-        since it usually involves matrix math which is zero fun in JavaScript (or if you ask me: anywhere 😅). 
-        Thankfully, <b><a href="https://js.tensorflow.org/">TensorFlow.js</a></b> is here to help! It's 
-        an open source library that has a lot of built-in Machine Learning-y things like models and algorithms so that 
-        you don't have to write them from scratch.
-      </p>
-      
-      <h2>Is your problem a Machine Learning problem?</h2>
-      <p>Machine Learning is good at classifying and labelling data. The premise of every machine learning problem is:
-        <ul>
-          <li>Someone gives us some data that was generated according to a <b>secret</b> formula. This data could be a bunch 
-            of points (that are generated based on some math equation), but could also be fun, like images (the secret 
-            formula could be "some of these images are chihuahuas and some are <a href="https://mashable.com/2016/03/10/dog-or-muffin-meme/#LjBd4.e9lgqJ">
-            blueberry muffins</a>") or bus schedules.</li>
-          <li>By looking at this data we were given, we approximate the secret formula so that we can correctly predict
-            a future data point. For example, if we're given a photo, we will eventually be able to confidently say whether it's a dog or a muffin.</li>
-        </ul>
-      </p>
+  <body>
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-analytics.js"></script>
+
+    <script>
+      // Your web app's Firebase configuration
+      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+      var firebaseConfig = {
+        apiKey: "AIzaSyBgCYu2dYFgUxdbt_PIoJyNaJEIV0PM6IM",
+        authDomain: "gummie-website.firebaseapp.com",
+        databaseURL: "https://gummie-website.firebaseio.com",
+        projectId: "gummie-website",
+        storageBucket: "gummie-website.appspot.com",
+        messagingSenderId: "268487959542",
+        appId: "1:268487959542:web:3fff0d1d43624588ff9dd7",
+        measurementId: "G-WL8JZ6Z613"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      firebase.analytics();
+    </script>
+
+    <header><h1>hello tensorflow <div class="glitchButton"></div></h1></header>
     
-      <button>Learn!</button>
-          
-      <h2 id="demo">A fun demo!</h2>
+    <p>
+      <strong>Machine Learning (ML) </strong> is the dope new thing that everyone's talking about, because it's really good 
+      at learning from data so that it can predict similar things in the future. Doing ML by hand is pretty annoying
+      since it usually involves matrix math which is zero fun in JavaScript (or if you ask me: anywhere 😅). 
+      Thankfully, <strong><a href="https://js.tensorflow.org/">TensorFlow.js</a></b> is here to help! It's 
+      an open source library that has a lot of built-in Machine Learning-y things like models and algorithms so that 
+      you don't have to write them from scratch.
+    </p>
+    
+    <h2>Is your problem a Machine Learning problem?</h2>
+    <p>Machine Learning is good at classifying and labelling data. The premise of every machine learning problem is:
+      <ul>
+        <li>Someone gives us some data that was generated according to a <strong>secret</strong> formula. This data could be a bunch 
+          of points (that are generated based on some math equation), but could also be fun, like images (the secret 
+          formula could be "some of these images are chihuahuas and some are <a href="https://mashable.com/2016/03/10/dog-or-muffin-meme/#LjBd4.e9lgqJ">
+          blueberry muffins</a>") or bus schedules.</li>
+        <li>By looking at this data we were given, we approximate the secret formula so that we can correctly predict
+          a future data point. For example, if we're given a photo, we will eventually be able to confidently say whether it's a dog or a muffin.</li>
+      </ul>
+    </p>
+  
+    <button>Learn!</button>
+        
+    <h2 id="demo">A fun demo!</h2>
   </body>
 </html>

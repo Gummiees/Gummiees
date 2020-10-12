@@ -10,4 +10,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likefurnis&theme=dracula&layout=compact" />
 </div>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=likefurnis" />-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gummie" />
+</div>

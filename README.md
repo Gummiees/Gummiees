@@ -6,8 +6,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=likefurnis&count_private=true&show_icons=true&theme=dracula" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likefurnis&theme=dracula&layout=compact" />
 </div>
 <div align="center">

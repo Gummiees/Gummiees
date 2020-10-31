@@ -9,14 +9,11 @@
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono" rel="stylesheet">
   </head>  
   <body>
-
-    <!-- The core Firebase JS SDK is always required and must be listed first -->
-    <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-analytics.js"></script>
+  
+    <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-analytics.js"></script>
 
     <script>
-      // Your web app's Firebase configuration
-      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
       var firebaseConfig = {
         apiKey: "AIzaSyBgCYu2dYFgUxdbt_PIoJyNaJEIV0PM6IM",
         authDomain: "gummie-website.firebaseapp.com",
@@ -30,33 +27,82 @@
       // Initialize Firebase
       firebase.initializeApp(firebaseConfig);
       firebase.analytics();
+
+      function sendEmail() 
+      {
+        window.open("mailto:developer@gummie.info");
+      }
     </script>
 
-    <header><h1>hello tensorflow <div class="glitchButton"></div></h1></header>
-    
+    <header><h1>Welcome to my website</h1></header>
+    <h2>About me</h2>
     <p>
-      <strong>Machine Learning (ML) </strong> is the dope new thing that everyone's talking about, because it's really good 
-      at learning from data so that it can predict similar things in the future. Doing ML by hand is pretty annoying
-      since it usually involves matrix math which is zero fun in JavaScript (or if you ask me: anywhere 😅). 
-      Thankfully, <strong><a href="https://js.tensorflow.org/">TensorFlow.js</a></b> is here to help! It's 
-      an open source library that has a lot of built-in Machine Learning-y things like models and algorithms so that 
-      you don't have to write them from scratch.
+      My name is Francesc Xavier Caro Miro, I'm from Palma, Spain, and was born in March 1996.
+      I go by either likefurnis (my old username) or Gummie (the latest one), though
+      this one is usually taken, so it may vary a little.
     </p>
     
-    <h2>Is your problem a Machine Learning problem?</h2>
-    <p>Machine Learning is good at classifying and labelling data. The premise of every machine learning problem is:
+    <h2>Dev</h2>
+    <p>
+      I consider myself a <b>full stack developer</b>. However, I realized that what I love the most, is either
+      <b>DevOps</b> or <b>frontend</b> with <b>Angular</b>, mainly <b>UI/UX</b>. I also enjoy developing in <b>.NET Core</b>. I've
+      also worked with <b>Java</b> and <b>ORACLE</b>, but the main projects I work on, are made with <b>Angular, .NET Core and SQL</b>.
+      I also do enjoy <b>vanilla JavaScript</b>!
+    </p>
+    <p>
+      I use WakaTime to register the time I spend developing either on VSCode, VS2019 or MSSQL. Here you can see my stats for this week:
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gummie" />
+    </p>
+    <h2>Experience</h2>
+    <p>
+      I work at a local small company that is growing, <b><a href="https://www.3digits.es/">3digits</a></b>. We mainly develop
+      products for our clients from top to bottom.
+    </p>
+    <h2>Learning</h2>
+    <p>
+      I am currently investing some time on having a deeper knowledge on frontend languages, mainly <b>Angular, Ionic and JavaScript</b>.
+      I also am learning more about DevOps, like <b>git flow, CI/CD pipelines, automated processes, docker</b> and similars, etc.
+      Something completely different that I want to become somewhat good at, or at least have a basic knowledge, is
+      <b>Machine Learning</b> and all the different paths it has. I've been using <b>TensorFlow</b> for that. 
+    </p>
+    <h2>Projects</h2>
+    <p>
+      You can find most of my personal projects <b><a href="https://github.com/likefurnis?tab=repositories&q=&type=public">here</a></b>.
+    </p>
+    <h3><a href="https://random-skill-generator.web.app/">Random Skill Generator</a></h3>
+    <p>
+      For my basic website, like this one you're seeing and the project, I use <b><a href="https://firebase.google.com/">Firebase</a></b>,
+       where I also have a small project I made for a friend of mine, since he's the Rol Master. It basically was done to make his
+        work easier, with the calculations you need to do to determine if an attack hits or not base on stats and so on.
+    </p>
+    <h3><a href="https://github.com/likefurnis/AndPerTag">AndPerTag</a></h3>
+    <p>
+      I also made a desktop Macro app, where you can have tags to organize them. I made it to learn about desktop apps with Windows Forms,
+      and indeed I learned a lot. The problem was that it has a lot of limitations, so I made the first basic version and left it there.
+    </p>
+    <h3><a href="https://github.com/likefurnis/BadKittyBot">BadKittyBot</a> / <a href="https://github.com/likefurnis/ShameBot">ShameBot</a></h3>
+    <p>
+      I've developed some Discord bots for personal use with vanilla JavaScript. Be adviced though, they are NSFW... They are not
+      online because I host them with <a href="https://www.heroku.com/">Heroku</a>, and when I don't use them, I simply put them offline. 
+    </p>
+    <h2>Links</h2>
+    <p>
       <ul>
-        <li>Someone gives us some data that was generated according to a <strong>secret</strong> formula. This data could be a bunch 
-          of points (that are generated based on some math equation), but could also be fun, like images (the secret 
-          formula could be "some of these images are chihuahuas and some are <a href="https://mashable.com/2016/03/10/dog-or-muffin-meme/#LjBd4.e9lgqJ">
-          blueberry muffins</a>") or bus schedules.</li>
-        <li>By looking at this data we were given, we approximate the secret formula so that we can correctly predict
-          a future data point. For example, if we're given a photo, we will eventually be able to confidently say whether it's a dog or a muffin.</li>
+        <li>
+          <a href="https://github.com/likefurnis">GitHub</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/francesc-xavier-caro-miro/">Linkedin</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/Gummiees">Twitter</a>
+        </li>
+        <li>
+          <a href="https://steamcommunity.com/id/lik3furnis/">Steam</a>
+        </li>
       </ul>
     </p>
   
-    <button>Learn!</button>
-        
-    <h2 id="demo">A fun demo!</h2>
+    <button onclick="sendEmail();">Send me an email!</button>
   </body>
 </html>

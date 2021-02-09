@@ -1,7 +1,7 @@
 ### I see you found me 👀
 
 -   🔭 I love to work on new languages and test out new stuff!
--   🌱 I’m currently learning C#, Angular, Javascript, Java.
+-   🌱 I’m currently learning C#, Angular, Javascrip and Node.
 -   👯 I’m looking to collaborate on web projects and other projects that need translations to/from Spanish or Catalan
 
 [Check my gist!](https://gist.github.com/likefurnis)

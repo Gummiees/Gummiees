@@ -1,7 +1,7 @@
 ### I see you found me 👀
 
 -   🔭 I love to work on new languages and test out new stuff!
--   🌱 I’m currently learning Angular, Javascript, Docker, DevOps (implement CI/CD workflows), C#,  and Node.
+-   🌱 I’m currently learning Angular, TypeScript, Javascript, Docker, DevOps (implement CI/CD workflows), C#,  and Node (Express.js).
 -   👯 I’m looking to collaborate on web projects and other projects that need translations to/from Spanish or Catalan
 
 [Check my gist!](https://gist.github.com/Gummiees)

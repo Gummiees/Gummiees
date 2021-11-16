@@ -24,7 +24,7 @@ jobs:
           plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
           plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
-          plugin_languages_recent_days: 7                               # Limit recently used stats to last week
+          plugin_languages_recent_days: 375                               # Limit recently used stats to last week
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year                        # Display full year instead of half year
           commits_authoring: xavicaromiro@gmail.com                     # Surnames or email addresses used to identify your commits

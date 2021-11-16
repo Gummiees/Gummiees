@@ -6,7 +6,4 @@
 
 [Check my gist!](https://gist.github.com/Gummiees)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gummiees&count_private=true&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gummiees&theme=dracula&layout=compact" />
-</div>
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)

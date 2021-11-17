@@ -50,7 +50,7 @@ jobs:
           plugin_reactions_display: absolute                            # Display percentages based on the total amoun fetched
           plugin_reactions_details: count, percentage                   # Display reactions count and percentage
           plugin_reactions_ignored: bot                                 # Ignore "bot" user
-          lugin_achievements: yes
+          plugin_achievements: yes
           plugin_stars: yes
           plugin_stars_limit: 3
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
@@ -60,7 +60,7 @@ jobs:
           plugin_achievements_ignored: octonaut # Hide "octonaut" achievement
           plugin_achievements_only: explorer    # Display only "explorer" achievement (don't use with "ignored" option)
           plugin_activity: yes
-          plugin_activity_limit: 5           # Limit to 5 events
+          plugin_activity_limit: 3           # Limit to 5 events
           plugin_activity_load: 100          # Load up to 100 recent events from API (should be higher than "limit")
           plugin_activity_days: 365           # Keep only events from last 14 days (set to 0 for no limit)
           plugin_activity_filter: all        # Show all events (use table above to filter events types)

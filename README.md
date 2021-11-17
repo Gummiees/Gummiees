@@ -1,8 +1,9 @@
-### I see you found me 👀
+### I see you found me 👨‍💻
+
+**Heads up**: my projects are usually to learn/test stuff and just for myself, so I almost never finish them.
 
 -   🔭 I love to work on new languages and test out new stuff!
--   🌱 I’m currently learning Angular, Unit Testing (Karma/Cypress) and E2E Testing (Protactor), TailwindCSS and Node. I also want to take a dive into ReactJS, VueJS and Redux among others.
--   👯 I’m looking to collaborate on web projects and other projects that need translations to/from Spanish or Catalan
+-   📚 I’m currently learning Angular, Unit Testing (Jest/Cypress) and Firebase. I also want to take a dive into ReactJS, VueJS and Redux among others.
 
 [Check my gist!](https://gist.github.com/Gummiees)
 

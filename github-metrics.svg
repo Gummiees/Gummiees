@@ -1753,16 +1753,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 121 edited files from 86 commits over last 44 days
+            estimation from 122 edited files from 86 commits over last 44 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="313.52663279736026" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="313.52663279736026" y="0" width="121.85073063426387" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="435.37736343162413" y="0" width="24.622636568375842" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="314.2918504154547" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="314.2918504154547" y="0" width="121.20205590133342" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="435.4939063167881" y="0" width="24.506093683211876" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1772,8 +1772,8 @@
                       TS
                     </div>
                             <small>
-                                <div>65 kB</div>
-                                <div>68.16%</div>
+                                <div>65.5 kB</div>
+                                <div>68.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1783,7 +1783,7 @@
                     </div>
                             <small>
                                 <div>5.11 kB</div>
-                                <div>5.35%</div>
+                                <div>5.33%</div>
                             </small>
                         </div>
                     </section>
@@ -1795,7 +1795,7 @@
                     </div>
                             <small>
                                 <div>25.2 kB</div>
-                                <div>26.49%</div>
+                                <div>26.35%</div>
                             </small>
                         </div>
                     </section>
@@ -4129,7 +4129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>connersimmons/ionic-linkify</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4257,7 +4257,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2021, 09:21:17 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 20 Nov 2021, 10:18:09 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

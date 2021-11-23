@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1980" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2000" class="">
     <defs>
         <style/>
     </defs>
@@ -1753,29 +1753,51 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 5 edited files from 85 commits over last 44 days
+            estimation from 103 edited files from 85 commits over last 44 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.1298746388582" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="298.1298746388582" y="0" width="132.72334990762212" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="430.85322454648036" y="0" width="29.146775453519655" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      TS
+                    </div>
+                            <small>
+                                <div>52.2 kB</div>
+                                <div>64.81%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       YAML
                     </div>
                             <small>
-                                <div>4.17 kB</div>
-                                <div>100%</div>
+                                <div>5.11 kB</div>
+                                <div>6.34%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      HTML
+                    </div>
+                            <small>
+                                <div>23.2 kB</div>
+                                <div>28.85%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -4069,7 +4091,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>handsontable/handsontable</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4239,7 +4261,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Nov 2021, 19:20:27 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 23 Nov 2021, 20:13:27 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.3844675416635" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="299.3844675416635" y="0" width="101.17138305136181" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="400.55585059302535" y="0" width="59.444149406974695" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.2895788036608" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="299.2895788036608" y="0" width="101.14324720635081" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.4328260100116" y="0" width="59.56717398998837" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1773,7 +1773,7 @@
                     </div>
                             <small>
                                 <div>25.7 kB</div>
-                                <div>65.08%</div>
+                                <div>65.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1782,8 +1782,8 @@
                       YAML
                     </div>
                             <small>
-                                <div>5.11 kB</div>
-                                <div>12.92%</div>
+                                <div>5.12 kB</div>
+                                <div>12.95%</div>
                             </small>
                         </div>
                     </section>
@@ -2017,17 +2017,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 63.91692546583851%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 63.92082666278562%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">80%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 15.970496894409937%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 15.96662300489982%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">20%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 0.1125776397515528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.11255033231455878%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4242,7 +4242,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2021, 15:16:39 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Nov 2021, 16:18:53 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

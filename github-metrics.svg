@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.3682187207567" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="299.3682187207567" y="0" width="101.18161814916917" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="400.5498368699259" y="0" width="59.45016313007411" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.0357646584727" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="300.0357646584727" y="0" width="100.76113237960911" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.7968970380818" y="0" width="59.20310296191819" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1772,8 +1772,8 @@
                       TS
                     </div>
                             <small>
-                                <div>25.7 kB</div>
-                                <div>65.08%</div>
+                                <div>25.9 kB</div>
+                                <div>65.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1783,7 +1783,7 @@
                     </div>
                             <small>
                                 <div>5.11 kB</div>
-                                <div>12.92%</div>
+                                <div>12.87%</div>
                             </small>
                         </div>
                     </section>
@@ -1795,7 +1795,7 @@
                     </div>
                             <small>
                                 <div>8.70 kB</div>
-                                <div>22%</div>
+                                <div>21.9%</div>
                             </small>
                         </div>
                     </section>
@@ -4197,7 +4197,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Dec 2021, 07:22:51 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 2 Dec 2021, 08:19:12 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

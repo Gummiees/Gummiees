@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.9871893623059" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="287.9871893623059" y="0" width="95.29330684720478" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="383.28049620951066" y="0" width="76.71950379048931" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.67686170212767" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="283.67686170212767" y="0" width="97.6811835106383" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="381.358045212766" y="0" width="78.64195478723404" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1772,8 +1772,8 @@
                       TS
                     </div>
                             <small>
-                                <div>15.4 kB</div>
-                                <div>62.61%</div>
+                                <div>14.8 kB</div>
+                                <div>61.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1783,7 +1783,7 @@
                     </div>
                             <small>
                                 <div>4.11 kB</div>
-                                <div>16.68%</div>
+                                <div>17.1%</div>
                             </small>
                         </div>
                     </section>
@@ -1795,7 +1795,7 @@
                     </div>
                             <small>
                                 <div>5.11 kB</div>
-                                <div>20.72%</div>
+                                <div>21.24%</div>
                             </small>
                         </div>
                     </section>
@@ -4037,7 +4037,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andreuDeveloper/OfficeToPDF</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4207,7 +4207,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Dec 2021, 13:29:47 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 4 Dec 2021, 14:24:58 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

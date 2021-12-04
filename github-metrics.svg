@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.830472186539" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="294.830472186539" y="0" width="91.50219938495076" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="386.33267157148975" y="0" width="73.66732842851026" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.88189282795656" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="294.88189282795656" y="0" width="91.47371288477255" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="386.35560571272913" y="0" width="73.64439428727088" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1773,7 +1773,7 @@
                     </div>
                             <small>
                                 <div>16.4 kB</div>
-                                <div>64.09%</div>
+                                <div>64.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -4037,7 +4037,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andreuDeveloper/OfficeToPDF</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4207,7 +4207,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Dec 2021, 07:22:13 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 4 Dec 2021, 08:18:01 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

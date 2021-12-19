@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.8754669987547" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="294.8754669987547" y="0" width="91.47727272727272" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="386.3527397260274" y="0" width="73.6472602739726" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.85618650994434" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="294.85618650994434" y="0" width="91.48795391740941" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="386.34414042735375" y="0" width="73.65585957264625" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3992,7 +3992,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/awesome</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4030,7 +4030,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yangshun/tech-interview-handbook</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4072,7 +4072,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>public-apis/public-apis</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4167,7 +4167,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2021, 09:22:32 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 19 Dec 2021, 10:18:52 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

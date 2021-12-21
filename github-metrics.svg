@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.89474298610844" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="294.89474298610844" y="0" width="91.46659403089615" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="386.36133701700453" y="0" width="73.63866298299544" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.9075911443134" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="294.9075911443134" y="0" width="91.45947628496945" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="386.3670674292829" y="0" width="73.6329325707171" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -4006,7 +4006,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sapegin/jest-cheat-sheet</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4177,7 +4177,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2021, 19:22:48 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 21 Dec 2021, 20:15:36 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.8984198645598" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="294.8984198645598" y="0" width="91.44858721880594" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="386.3470070833658" y="0" width="73.65299291663423" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.8754669987547" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="294.8754669987547" y="0" width="91.47727272727272" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="386.3527397260274" y="0" width="73.6472602739726" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1773,7 +1773,7 @@
                     </div>
                             <small>
                                 <div>16.4 kB</div>
-                                <div>64.11%</div>
+                                <div>64.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1795,7 +1795,7 @@
                     </div>
                             <small>
                                 <div>5.11 kB</div>
-                                <div>19.88%</div>
+                                <div>19.89%</div>
                             </small>
                         </div>
                     </section>
@@ -4123,7 +4123,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Dec 2021, 03:36:34 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Dec 2021, 04:19:36 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

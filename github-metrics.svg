@@ -1760,9 +1760,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.79399617205604" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="334.79399617205604" y="0" width="95.31782008663241" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="430.11181625868846" y="0" width="29.888183741311572" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.88753645239" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="280.88753645239" y="0" width="99.1310595494696" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="380.0185960018596" y="0" width="79.9814039981404" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1773,21 +1773,9 @@
                     </div>
                             <small>
                                 <div>14.4 kB</div>
-                                <div>72.78%</div>
+                                <div>61.06%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      YAML
-                    </div>
-                            <small>
-                                <div>1.29 kB</div>
-                                <div>6.5%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -1795,7 +1783,19 @@
                     </div>
                             <small>
                                 <div>4.11 kB</div>
-                                <div>20.72%</div>
+                                <div>17.39%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      YAML
+                    </div>
+                            <small>
+                                <div>5.10 kB</div>
+                                <div>21.55%</div>
                             </small>
                         </div>
                     </section>
@@ -3972,7 +3972,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>htr-tech/zphisher</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4014,7 +4014,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tegal1337/CiLocks</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4056,7 +4056,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yunemse48/403bypasser</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4150,7 +4150,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jan 2022, 07:23:07 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 1 Jan 2022, 08:18:10 (timezone Europe/Madrid) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

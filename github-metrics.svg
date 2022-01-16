@@ -427,9 +427,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.17776573120386" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="277.17776573120386" y="0" width="98.01926525165756" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="375.1970309828614" y="0" width="84.80296901713857" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="280.7721551068683" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="280.7721551068683" y="0" width="99.29036073329391" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="380.06251584016223" y="0" width="79.93748415983781" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -442,7 +442,7 @@
                             </div>
                             <small>
                                 <div>14.4 kB</div>
-                                <div>60.26%</div>
+                                <div>61.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -453,8 +453,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>4.42 kB</div>
-                                <div>18.44%</div>
+                                <div>4.11 kB</div>
+                                <div>17.38%</div>
                             </small>
                         </div>
                     </section>
@@ -468,7 +468,7 @@
                             </div>
                             <small>
                                 <div>5.11 kB</div>
-                                <div>21.31%</div>
+                                <div>21.58%</div>
                             </small>
                         </div>
                     </section>
@@ -2634,7 +2634,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>htr-tech/zphisher</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !</div>
@@ -2668,7 +2668,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        324
+                                        325
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2687,7 +2687,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tegal1337/CiLocks</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Crack Interface lockscreen, Metasploit and More Android/IOS Hacking</div>
@@ -2708,7 +2708,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        621
+                                        622
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2791,7 +2791,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2022, 16:19:42 (timezone Europe/Madrid) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 17:29:28 (timezone Europe/Madrid) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

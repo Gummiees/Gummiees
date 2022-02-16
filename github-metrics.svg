@@ -396,16 +396,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 41 edited files from 83 commits over last 12 days</small>
+                <small>estimation from 19 edited files from 83 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.35652262743895" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="260.35652262743895" y="0" width="133.96107876187557" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="394.3176013893146" y="0" width="48.56573705179283" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="442.8833384411074" y="0" width="17.116661558892634" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.4376552409339" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="308.4376552409339" y="0" width="76.18107302533532" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="384.6187282662692" y="0" width="58.41405861897665" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="443.03278688524586" y="0" width="16.9672131147541" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -417,8 +417,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>22.1 kB</div>
-                                <div>56.6%</div>
+                                <div>21.6 kB</div>
+                                <div>67.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -429,8 +429,8 @@
                                 JSON
                             </div>
                             <small>
-                                <div>4.13 kB</div>
-                                <div>10.56%</div>
+                                <div>4.09 kB</div>
+                                <div>12.7%</div>
                             </small>
                         </div>
                     </section>
@@ -443,8 +443,8 @@
                                 TS
                             </div>
                             <small>
-                                <div>11.4 kB</div>
-                                <div>29.12%</div>
+                                <div>5.33 kB</div>
+                                <div>16.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -455,8 +455,8 @@
                                 JS
                             </div>
                             <small>
-                                <div>1.46 kB</div>
-                                <div>3.72%</div>
+                                <div>1.19 kB</div>
+                                <div>3.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1767,7 +1767,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rough-stuff/rough-notation</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create and animate hand-drawn annotations on a web page</div>
@@ -1788,7 +1788,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.05k
+                                        6.06k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1820,7 +1820,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mermaid-js/mermaid</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generation of diagram and flowchart from text in a similar manner as markdown</div>
@@ -1873,7 +1873,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dicebear/dicebear</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DiceBear is an avatar library for designers and developers.</div>
@@ -2219,7 +2219,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2022, 13:28:45 (timezone Europe/Madrid) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 16 Feb 2022, 14:20:12 (timezone Europe/Madrid) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

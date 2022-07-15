@@ -1674,7 +1674,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pocketbase/pocketbase</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source realtime backend in 1 file</div>
@@ -2022,7 +2022,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.55m out of 94m users</span>
+                                    <span class="gh">ranked 1.56m out of 94m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">24</div>
                                     </div>
@@ -2158,7 +2158,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2022, 07:41:25 (timezone Europe/Madrid) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 08:24:56 (timezone Europe/Madrid) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -26,6 +26,7 @@ jobs:
           plugin_languages_threshold: 2%                                # Hides all languages less than 2%
           plugin_languages_indepth: yes                                 # Get indepth stats (see documentation before enabling)
           plugin_languages_analysis_timeout: 60                         # Set maximum time for indepth analysis
+          plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
           plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
